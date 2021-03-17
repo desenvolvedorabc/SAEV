@@ -41,4 +41,5 @@ Este software é distribuído seguindo a licença GPL 3.0 da GNU. Para saber mai
 ## Referências
 
 * [CodeIgniter](https://codeigniter.com/)
+* [PostgreSQL](https://www.postgresql.org/)
 
