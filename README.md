@@ -1,2 +1,41 @@
 # SAEV
-Sistema de Avaliação Educar Pra Valer
+
+Sistema de Avaliação Educar pra Valer
+
+Este repositório é uma simulação para demonstração de um repositório público. Os arquivos compartilados aqui não representam o sistema real e sim uma demonstração. 
+
+## Conteúdo
+
+1. [Sobre o SAEV]()
+2. [Licença de Uso GNU/GPL]()
+3. [Manual do Sistema]()
+4. [Documento de Visão]()
+5. [Documento de Arquitetura]()
+6. [Modelo de Dados]()
+7. [Referências]()
+
+
+
+## Sobre o SAEV
+
+
+## Licença de Uso GNU/GPL
+
+
+## Manual do Sistema
+
+
+
+## Documento de Visão
+
+
+## Documento de Arquitetura
+
+
+## Modelo de Dados
+
+
+
+## Referências
+
+
